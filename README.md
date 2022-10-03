@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-![](https://komarev.com/ghpvc/?username=p2635)
+![](https://komarev.com/ghpvc/?username=p2635&style=for-the-badge)
