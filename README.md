@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Cybersecurity website profiles
 
-Are you on any of these? Feel free to add me!
+Feel free to add me if you're on these platforms:
 
 - https://cyberdefenders.org/profile/philipw
 - https://tryhackme.com/p/phil.wong
