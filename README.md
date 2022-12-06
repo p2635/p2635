@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ### Cybersecurity website profiles
 
-Feel free to add me if you're on these platforms:
-
 - https://cyberdefenders.org/profile/philipw
-- https://tryhackme.com/p/phil.wong
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/phil.wong.png" alt="TryHackMe">
 
 ![](https://komarev.com/ghpvc/?username=p2635&style=for-the-badge)
