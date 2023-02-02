@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p2635&label=Profile%20views&color=0e75b6&style=flat" alt="p2635" /> </p>
 
+- 🌱 I'm currently learning test automation for iOS.
 - 📝 I sometimes blog on [philwong.co.uk](philwong.co.uk)
 
 <h3 align="left">Connect with me:</h3>
