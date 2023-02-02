@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at [kinandcarta.com](https://www.kinandcarta.com/)
 - 🌱 I’m currently learning cybersecurity.
-- 📫 How to reach me: https://philwong.co.uk/ or https://www.linkedin.com/in/philipw1/
 - ⚡ Fun fact: One time I forgot to bring chopsticks to work, I used a spoon to eat noodles (an impossible task). Read more about it on my [blog article here](https://p2635.github.io/You-got-phished/).
 
 <!--
