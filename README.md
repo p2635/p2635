@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p2635&label=Profile%20views&color=0e75b6&style=flat" alt="p2635" /> </p>
 
+![gorilla](https://user-images.githubusercontent.com/4522927/216390175-43dc97e8-c957-424b-bc34-d43cf89c5535.gif)
+
 - 🌱 I'm currently learning test automation for iOS.
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
 
