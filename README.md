@@ -5,7 +5,7 @@
 
 ![gorilla](https://user-images.githubusercontent.com/4522927/216390175-43dc97e8-c957-424b-bc34-d43cf89c5535.gif)
 
-- 🌱 I'm currently learning test automation for iOS.
+- 🌱 I'm currently learning [test automation for iOS](https://github.com/search?l=Swift&q=user%3Ap2635).
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
 
 <h3 align="left">Connect with me:</h3>
