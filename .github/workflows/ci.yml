@@ -27,6 +27,6 @@ jobs:
 
       # - name: Check links with linkinator
       #   uses: JustinBeckwith/linkinator-action@main
-        
-      - name: Check links with mkdocs-link-check
-        uses: byrnereese/github-action-mkdocs-link-check@v1
+      
+      - name: mkdocs-link-check
+        uses: byrnereese/github-action-mkdocs-link-check@1.0
