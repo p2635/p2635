@@ -25,8 +25,5 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      - name: Check links with linkcheck
-        uses: filiph/linkcheck@2.0.23
-        # with:
-          # The arguments you would pass to the linkcheck tool
-          # arguments: 
+      - name: Check links with linkinator
+        uses: JustinBeckwith/linkinator-action@main
