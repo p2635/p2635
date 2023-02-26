@@ -1,8 +1,6 @@
 name: Check Links
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
@@ -13,20 +11,10 @@ on:
   
 jobs:
 
-  Check:
-    # The type of runner that the job will run on
+  linkinator:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-      # - name: Check links with linkinator
-      #   uses: JustinBeckwith/linkinator-action@main
-      
-      - name: mkdocs-link-check
-        uses: byrnereese/github-action-mkdocs-link-check@1.0
+      - uses: JustinBeckwith/linkinator-action@main
         with:
-          verbose-mode: 'yes'
-          folder-path: '.'
+          linksToSkip: "https://linkedin.com, https://www.linux.org, https://www.mysql.com"
