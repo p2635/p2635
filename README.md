@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning [test automation for iOS](https://github.com/search?l=Swift&q=user%3Ap2635).
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
-- 👯 I’m looking to collaborate on Open Source Projects
+- 👯 I’m looking to collaborate on Open Source Projects (give me all your good first issues!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
