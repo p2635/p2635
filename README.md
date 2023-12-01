@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning [test automation for iOS](https://github.com/search?l=Swift&q=user%3Ap2635).
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
 - 👯 I’m looking to collaborate on Open Source Projects (give me all your good first issues!)
-- 📂 Experimenting with the [Johnny Decimal](https://johnnydecimal.com/) system to organise my files
+- 📂 I'm learning about [Plain Language](https://github.com/p2635/course-plain-lang-01) to make the world more accessible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
