@@ -5,10 +5,9 @@
 
 ![gorilla](https://user-images.githubusercontent.com/4522927/216390175-43dc97e8-c957-424b-bc34-d43cf89c5535.gif)
 
-- 🌱 I'm currently learning [test automation for iOS](https://github.com/search?l=Swift&q=user%3Ap2635).
+- 🌱 I'm currently learning Cypress.
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
 - 👯 I’m looking to collaborate on Open Source Projects (give me all your good first issues!)
-- 📂 I'm learning about [Plain Language](https://github.com/p2635/course-plain-lang-01) to make the world more accessible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
