@@ -7,6 +7,7 @@
 
 - 🌱 I'm currently learning Cypress.
 - 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
+- ⌨ I type in [Colemak](https://colemak.com/)
 - 👯 I’m looking to collaborate on Open Source Projects (give me all your good first issues!)
 
 <h3 align="left">Connect with me:</h3>
