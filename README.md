@@ -5,11 +5,6 @@
 
 ![gorilla](https://user-images.githubusercontent.com/4522927/216390175-43dc97e8-c957-424b-bc34-d43cf89c5535.gif)
 
-- 🌱 I'm currently learning Cypress.
-- 📝 I sometimes blog on [philwong.co.uk](https://philwong.co.uk/)
-- ⌨ I type in [Colemak](https://colemak.com/)
-- 👯 I’m looking to collaborate on Open Source Projects (give me all your good first issues!)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/philipw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philipw1" height="30" width="40" /></a>
